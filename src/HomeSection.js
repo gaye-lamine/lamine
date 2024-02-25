@@ -2,7 +2,7 @@ import React, { useState, useEffect } from 'react';
 
 function HomeSection() {
     const [text, setText] = useState('');
-    const fullText = "Diplômé de Sonatel Academy, j'ai de l'experience en développement fullstack avec une approche créative et rigoureuse. Passionné par l'innovation, je suis prêt à contribuer activement à votre équipe.";
+    const fullText = "Diplômé de Sonatel Academy, j'ai de l'experience en développement fullstack .Passionné par l'innovation.";
 
     useEffect(() => {
         let currentIndex = 0;
